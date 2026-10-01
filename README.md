@@ -18,7 +18,7 @@ Email Me 👉 ✉️ **shraddheyapatidar9@gmail.com** For Collaboration/Project 
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="line chart animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&background=000000&center=true&vCenter=true&width=800&height=60&lines=DATA+ANALYST;BUSINESS+ANALYST;TURNING+DATA+INTO+INSIGHTS" />
 </div>
 
 
