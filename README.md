@@ -9,8 +9,8 @@ Email Me 👉 ✉️ **shraddheyapatidar9@gmail.com** For Collaboration/Project 
 - 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** shraddheyapatidar9
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 😄 **Pronouns:** Shraddheya patidar
+
 
 
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
